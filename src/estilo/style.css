@@ -58,7 +58,7 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 4.5vw;
 }
 
 section > p {
@@ -80,7 +80,7 @@ section.imagem {
 
 section.imagem>p {
     display: inline-block;
-    padding: 5px;
+    padding: 10px;
     background-color: rgba(0, 0, 0, 0.322);
     text-shadow: 1px 1px 0px black;
 }
